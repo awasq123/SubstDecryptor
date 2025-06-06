@@ -14,7 +14,7 @@ A GUI-assisted monoalphabetic substitution cipher analysis and decryption tool.
 
 ## Screenshots
 
-![screenshot](.\screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Requirements
 
