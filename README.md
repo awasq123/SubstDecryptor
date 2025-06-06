@@ -14,7 +14,7 @@ A GUI-assisted monoalphabetic substitution cipher analysis and decryption tool.
 
 ## Screenshots
 
-![](C:\Users\35499\Desktop\USTC\密码学导论\SubstDecryptor\screenshot.png)
+![screenshot](.\screenshot.png)
 
 ## Requirements
 
