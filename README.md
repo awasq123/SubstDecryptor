@@ -14,7 +14,7 @@ A GUI-assisted monoalphabetic substitution cipher analysis and decryption tool.
 
 ## Screenshots
 
-> _[Insert GUI screenshot here]_
+![](C:\Users\35499\Desktop\USTC\密码学导论\SubstDecryptor\screenshot.png)
 
 ## Requirements
 
@@ -30,3 +30,4 @@ git clone https://github.com/your-username/SubstDecryptor.git
 cd SubstDecryptor
 pip install -r requirements.txt
 python main.py
+```
